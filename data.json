@@ -24,7 +24,7 @@
     "shop": "bermorzone",
     "price": 12750.0,
     "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+    "link": "https://bermorzone.com.ph/product-category/free-shipping-products/"
   },
   {
     "category": "GPU",
@@ -262,15 +262,6 @@
   },
   {
     "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Sapphire NITRO+ AMD Radeon RX 9070 XT 16GB Graphics Card SPR-11348-01-20G",
-    "shop": "bermorzone",
-    "price": 49000.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
-  },
-  {
-    "category": "GPU",
     "model": "RX9060XT-8GB",
     "description": "Sapphire PULSE AMD Radeon RX 9060 XT Gaming OC 8GB | 16GB GDDR6 Graphics Card",
     "shop": "bermorzone",
@@ -465,7 +456,7 @@
     "shop": "bermorzone",
     "price": 46950.0,
     "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+    "link": "https://bermorzone.com.ph/product-category/free-shipping-products/"
   },
   {
     "category": "GPU",
@@ -708,7 +699,7 @@
     "shop": "bermorzone",
     "price": 32950.0,
     "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/product-category/btzflashdeals/"
+    "link": "https://bermorzone.com.ph/product-category/free-shipping-products/"
   },
   {
     "category": "GPU",
@@ -781,15 +772,6 @@
     "price": 26000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7600",
-    "description": "Asus Dual Radeon RX 7600 EVO OC 8GB GDDR6 Graphics Card",
-    "shop": "bermorzone",
-    "price": 17950.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
   {
     "category": "GPU",
@@ -1534,7 +1516,7 @@
     "model": "UNKNOWN",
     "description": "Leadtek NVIDIA A800 40GB Active Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -1580,6 +1562,15 @@
     "description": "MSI GeForce RTX 3070 VENTUS 3X Plus OC LHR 8GB 256-Bit GDDR6 Video Card",
     "shop": "bermorzone",
     "price": 25950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5060",
+    "description": "MSI GeForce RTX 5060 8GB GDDR7 128 bit Gaming Trio OC Black | White Graphics Card",
+    "shop": "bermorzone",
+    "price": 23000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -2191,7 +2182,7 @@
     "model": "RX7600",
     "description": "Asrock AMD Radeon RX 7600 Phantom Gaming 8GB OC Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
@@ -2203,6 +2194,15 @@
     "price": 35000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX7600",
+    "description": "Asus Dual Radeon RX 7600 EVO OC 8GB GDDR6 Graphics Card",
+    "shop": "bermorzone",
+    "price": 17950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
   {
     "category": "GPU",
@@ -2407,7 +2407,7 @@
     "model": "RTX5880",
     "description": "Leadtek NVIDIA RTX 5880 ADA Generation Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/computer-accessories/"
   },
@@ -2416,7 +2416,7 @@
     "model": "RTXA1000",
     "description": "Leadtek NVIDIA RTX A1000 ADA Generation Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -3596,6 +3596,15 @@
     "description": "PowerColor Red Devil AMD Radeon RX 6600 XT Gaming Graphics Card",
     "shop": "bermorzone",
     "price": 18500.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "Sapphire NITRO+ AMD Radeon RX 9070 XT 16GB Graphics Card SPR-11348-01-20G",
+    "shop": "bermorzone",
+    "price": 49000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
@@ -5611,7 +5620,7 @@
     "model": "RTX5050",
     "description": "Asus Dual GeForce RTX 5050 8GB GDDR6 OC | Non OC Graphics Card",
     "shop": "bermorzone",
-    "price": 18500.0,
+    "price": 18000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -5791,7 +5800,7 @@
     "model": "RTX5080",
     "description": "ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC White Edition Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -5800,7 +5809,7 @@
     "model": "RTX5090",
     "description": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 White OC Edition Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -6098,6 +6107,15 @@
     "description": "ASUS TUF RTX 3060 12GB GDDR6X V2 OC Edition Graphics Card",
     "shop": "bermorzone",
     "price": 21950.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
+    "description": "Colorful Colorfire GeForce RTX 5050 MEOW-ORG DUO 8GB-V Graphics Card",
+    "shop": "bermorzone",
+    "price": 18500.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -6563,6 +6581,15 @@
   {
     "category": "GPU",
     "model": "RTX5050",
+    "description": "Gigabyte GeForce RTX 5050 Gaming OC GDDR6 8G Graphics Card",
+    "shop": "bermorzone",
+    "price": 19500.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
     "description": "Gigabyte GeForce RTX 5050 OC Low Profile GDDR6 8G Graphics Card",
     "shop": "bermorzone",
     "price": 18000.0,
@@ -6853,7 +6880,7 @@
     "model": "RTX4000",
     "description": "Leadtek NVIDIA RTX 4000 ADA Generation Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -6862,7 +6889,7 @@
     "model": "RTX4000",
     "description": "Leadtek NVIDIA RTX 4000 SFF ADA Generation Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -6871,7 +6898,7 @@
     "model": "RTX4500",
     "description": "Leadtek NVIDIA RTX 4500 ADA Generation Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -6880,7 +6907,7 @@
     "model": "RTX5000",
     "description": "Leadtek NVIDIA RTX 5000 ADA Generation Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -7043,15 +7070,6 @@
     "description": "MSI GeForce RTX 5060 8GB GDDR7 128 Bit GAMING OC | Non OC Graphics Card",
     "shop": "bermorzone",
     "price": 22000.0,
-    "availability": "In Stock",
-    "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "MSI GeForce RTX 5060 8GB GDDR7 128 bit Gaming Trio OC Black | White Graphics Card",
-    "shop": "bermorzone",
-    "price": 23000.0,
     "availability": "In Stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -7580,6 +7598,15 @@
   {
     "category": "GPU",
     "model": "RTX5050",
+    "description": "PNY GeForce RTX 5050 8GB GDDR6 Dual Fan Graphics Card",
+    "shop": "bermorzone",
+    "price": 17500.0,
+    "availability": "In Stock",
+    "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5050",
     "description": "PNY GeForce RTX 5050 8GB GDDR6 Single Fan Graphics Card",
     "shop": "bermorzone",
     "price": 16500.0,
@@ -8023,7 +8050,7 @@
     "model": "RX9060XT-8GB",
     "description": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB Dual Fan Graphics Card \u2013 Black | White",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
@@ -8032,7 +8059,7 @@
     "model": "RX9060XT-8GB",
     "description": "XFX Swift AMD Radeon RX 9060 XT OC Gaming Edition 8GB Graphics Card \u2013 Black | White",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
@@ -8050,7 +8077,7 @@
     "model": "RX9060XT-8GB",
     "description": "XFX Swift AMD Radeon RX 9060 XT OC Triple Fan Gaming Edition 8GB Graphics Card \u2013 Black | White",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
   },
@@ -8167,7 +8194,7 @@
     "model": "RTX5060",
     "description": "ZOTAC GAMING GeForce RTX 5060 Twin Edge OC 8GB GDDR7 128-bit Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
   },
@@ -8212,7 +8239,7 @@
     "model": "RTX5060TI-8GB",
     "description": "Zotac GeForce RTX 5060 Ti 8GB | 16GB Twin Edge OC White Edition GDDR7 128-bit Graphics Card",
     "shop": "bermorzone",
-    "price": NaN,
+    "price": null,
     "availability": "Out of stock",
     "link": "https://bermorzone.com.ph/product-category/free-shipping-products/"
   },
@@ -8326,6 +8353,15 @@
   },
   {
     "category": "GPU",
+    "model": "RX7600XT",
+    "description": "Gigabyte Radeon RX 7600 XT Gaming OC 16GB GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 21950.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-radeon-rx-7600-xt-gaming-oc-16gb-gddr6-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX3060-12GB",
     "description": "Gigabyte GeForce RTX 3060 Gaming OC 12G V2 GDDR6 Graphics Card",
     "shop": "datablitz",
@@ -8341,15 +8377,6 @@
     "price": 17650.0,
     "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-4060-infinity-2-8gb-gddr6-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7600XT",
-    "description": "Gigabyte Radeon RX 7600 XT Gaming OC 16GB GDDR6 Graphics Card",
-    "shop": "datablitz",
-    "price": 21950.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-radeon-rx-7600-xt-gaming-oc-16gb-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -8699,7 +8726,7 @@
     "description": "Palit GeForce RTX 5070 Infinity 3 12GB GDDR7 Graphics Card",
     "shop": "datablitz",
     "price": 36895.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5070-infinity-3-12gb-gddr7-graphics-card"
   },
   {
@@ -9122,7 +9149,7 @@
     "description": "INNO3D GeForce RTX 3050 Twin X2 6GB GDDR6 Graphics Card (Black) (N30502-06D6-1711VA60)",
     "shop": "datablitz",
     "price": 10195.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/inno3d-geforce-rtx-3050-twin-x2-6gb-gddr6-graphics-card-black-n30502-06d6-1711va60"
   },
   {
@@ -9262,6 +9289,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX3060-12GB",
+    "description": "COLORFUL IGAME GeForce RTX 3060 Ultra W OC 12G L-V GDDR6 Graphics Card",
+    "shop": "datablitz",
+    "price": 16950.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-3060-ultra-w-oc-12g-l-v-gddr6-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RX9060XT-16GB",
     "description": "Sapphire Pulse AMD Radeon RX 9060 XT Gaming OC 16GB GDDR6 Graphics Card",
     "shop": "datablitz",
@@ -9358,15 +9394,6 @@
     "price": 12950.0,
     "availability": "Out of Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-gtx-1660-super-ventus-xs-oc-6g-gddr6-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3060-12GB",
-    "description": "COLORFUL IGAME GeForce RTX 3060 Ultra W OC 12G L-V GDDR6 Graphics Card",
-    "shop": "datablitz",
-    "price": 16950.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-3060-ultra-w-oc-12g-l-v-gddr6-graphics-card"
   },
   {
     "category": "GPU",
@@ -9739,6 +9766,15 @@
   },
   {
     "category": "GPU",
+    "model": "RTX5060TI-16GB",
+    "description": "Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 28995.0,
+    "availability": "In Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RTX5080",
     "description": "Manli Gallardo GeForce RTX 5080 OC 16GB GDDR7 Triple Cooler RGB Graphics Card (M-N508GO/D716G-M3628)",
     "shop": "datablitz",
@@ -10015,6 +10051,15 @@
     "price": 174450.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5090-gaming-oc-32gb-gddr7-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RTX5070TI",
+    "description": "Asus Prime GeForce RTX 5070 Ti 16GB GDDR7 Graphics Card",
+    "shop": "datablitz",
+    "price": 60450.0,
+    "availability": "Out of Stock",
+    "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -10303,15 +10348,6 @@
     "price": 32495.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/colorful-igame-geforce-rtx-5060-ti-ultra-w-duo-oc-16gb-v-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 28995.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -10906,15 +10942,6 @@
     "price": 166695.0,
     "availability": "In Stock",
     "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-geforce-rtx-5090-windforce-oc-32gb-gddr7-graphics-card"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Asus Prime GeForce RTX 5070 Ti 16GB GDDR7 Graphics Card",
-    "shop": "datablitz",
-    "price": 60450.0,
-    "availability": "In Stock",
-    "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-graphics-card"
   },
   {
     "category": "GPU",
@@ -13888,8 +13915,26 @@
   },
   {
     "category": "GPU",
+    "model": "RX9070",
+    "description": "XFX Swift RX 9070 Pro Gaming OC 16GB GDDR6 Triple Fan RX-97SWFT3 Graphics Card",
+    "shop": "dynaquest",
+    "price": 40950.0,
+    "availability": "In Stock",
+    "link": "https://dynaquestpc.com/products/xfx-swift-rx-9070-pro-gaming-oc-16gb-gddr6-triple-fan-rx-97swft3-graphics-card"
+  },
+  {
+    "category": "GPU",
     "model": "RX9070XT",
-    "description": "XFX Swift RX 9070 XT Pro Gaming White 16GB RX-97TSWFW9 Graphics Card",
+    "description": "XFX Swift RX 9070 XT Pro Gaming 16GB Triple Fan Black GDDR6 RX-97TSWF3B9 Graphics Card",
+    "shop": "dynaquest",
+    "price": 47350.0,
+    "availability": "In Stock",
+    "link": "https://dynaquestpc.com/products/xfx-swift-rx-9070-xt-pro-gaming-16gb-triple-fan-black-gddr6-rx-97tswf3b9-graphics-card"
+  },
+  {
+    "category": "GPU",
+    "model": "RX9070XT",
+    "description": "XFX Swift RX 9070 XT Pro Gaming 16GB Triple Fan White GDDR6 RX-97TSWF3W9 Graphics Card",
     "shop": "dynaquest",
     "price": 47950.0,
     "availability": "In Stock",
@@ -14180,7 +14225,7 @@
     "description": "Gigabyte RTX 5060 TI Windforce OC SFF 16GB GV-N506TWF2OC-16GD Graphics Card",
     "shop": "dynaquest",
     "price": 31620.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/gigabyte-rtx-5060-ti-windforce-oc-sff-16gb-gv-n506twf2oc-16g-graphics-card"
   },
   {
@@ -14189,7 +14234,7 @@
     "description": "Gigabyte RTX 5060 Ti Gaming OC 16GB GDDR7 GV-N506TGAMING-OC-16GD Graphics Card",
     "shop": "dynaquest",
     "price": 35760.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/gigabyte-rtx-5060-ti-gaming-oc-16gb-gddr7-gv-n506tgaming-oc-16gd-graphics-card"
   },
   {
@@ -14315,7 +14360,7 @@
     "description": "Gigabyte RTX 5060 TI EAGLE OC ICE 16G GV-N506TEAGLEOC-ICE-16GD Graphics Card",
     "shop": "dynaquest",
     "price": 33970.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/gigabyte-rtx-5060-ti-eagle-oc-ice-16g-gv-n506teagleoc-ice16gd-graphics-card-must-be-purchase-with-gigabyte-aio-cpu-cooler"
   },
   {
@@ -14648,7 +14693,7 @@
     "description": "MSI RTX 4060 Ventus 2X Black 8GB OC Graphics Card 912-V516-012",
     "shop": "dynaquest",
     "price": 19650.0,
-    "availability": "In Stock",
+    "availability": "Out of Stock",
     "link": "https://dynaquestpc.com/products/msi-rtx-4060-ventus-2x-8gb-oc-graphics-card"
   },
   {
@@ -14974,1005 +15019,6 @@
     "price": 6195.0,
     "availability": "In Stock",
     "link": "https://easypc.com.ph/products/xfx-rx-580-gts-xxx-edition-rx-580s85dd6-8gb-256bit-gddr6-gaming-videocard"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3060-12GB",
-    "description": "MSI GeForce RTX3060 Ventus 2X 12GB OC GDDR6 Graphics Card",
-    "shop": "itworld",
-    "price": 18399.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-3060-ventus-2x-12g-oc-msi-geforce-rtx3060-ventus-2x-12gb-oc-gddr6-graphics-card-11048?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6500XT",
-    "description": "Gigabyte Radeon RX6500 XT EAGLE 4GB GDDR6 Graphics Card (GV-R65XTEAGLE-4GD)",
-    "shop": "itworld",
-    "price": 8689.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r65xteagle-4gd-gigabyte-radeon-rx6500-xt-eagle-4gb-gddr6-graphics-card-gv-r65xteagle-4gd-10151?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6600",
-    "description": "Gigabyte RX 6600 Eagle 8GB GDDR6 AMD Radeon Graphic Card (GV-R66EAGLE-8GD)",
-    "shop": "itworld",
-    "price": 13499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r66eagle-8gd-gigabyte-rx-6600-eagle-8gb-gddr6-amd-radeon-graphic-card-gv-r66eagle-8gd-10148?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI1-6GB",
-    "description": "Gigabyte Geforce RTX 4060 Ti Aero OC 16GB GDDR6 Graphic Card (GV-N406TAERO-OC-16GD)",
-    "shop": "itworld",
-    "price": 31599.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n406taero-oc-16gd-gigabyte-geforce-rtx-4060-ti-aero-oc-16gb-gddr6-graphic-card-gv-n406taero-oc-16gd-10076?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "GT1030-2GB",
-    "description": "ASUS GeForce GT 1030 2GB GDDR5 Low Profile Graphics Card for Silent HTPC Build with I/O Port Brackets - GT1030-SL-2G-BRK",
-    "shop": "itworld",
-    "price": 4749.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/asus-geforce-gt-1030-2gb-gt1030-sl-2g-brk-asus-geforce-gt-1030-2gb-gddr5-low-profile-graphics-card-for-silent-htpc-build-with-i-o-port-brackets-gt1030-sl-2g-brk-8259?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "MSI RTX 4060 Ti Ventus 2X Black 8GB GDDR6 OC Edition Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 26799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4060-ti-ventus-2x-black-8g-oc-msi-rtx-4060-ti-ventus-2x-black-8gb-gddr6-oc-edition-geforce-graphic-card-11143?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "ITW | Gigabyte Geforce RTX 4060 Aero OC 8GB GDDR6 Graphic Card (GV-N4060AERO-OC-8GD)",
-    "shop": "itworld",
-    "price": 20649.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n4060aero-oc-8gd-itw-gigabyte-geforce-rtx-4060-aero-oc-8gb-gddr6-graphic-card-gv-n4060aero-oc-8gd-10281?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "Gigabyte Geforce RTX 4060 Eagle OC 8GB GDDR6 Graphics Card (GV-N4060EAGLE-OC-8GD)",
-    "shop": "itworld",
-    "price": 19899.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n4060eagle-oc-8gd-gigabyte-geforce-rtx-4060-eagle-oc-8gb-gddr6-graphics-card-gv-n4060eagle-oc-8gd-10075?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "Gigabyte Geforce RTX 4060 Gaming OC 8GB GDDR6 Graphics Card (GV-N4060GAMING-OC-8GD)",
-    "shop": "itworld",
-    "price": 20669.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n4060gaming-oc-8gd-gigabyte-geforce-rtx-4060-gaming-oc-8gb-gddr6-graphics-card-gv-n4060gaming-oc-8gd-10282?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "MSI Geforce RTX 4060 Ventus 2X Black 8GB GDDR6 OC Graphics Card",
-    "shop": "itworld",
-    "price": 20169.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4060-ventus-2x-black-8g-oc-msi-geforce-rtx-4060-ventus-2x-black-8gb-gddr6-oc-graphics-card-11054?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "GT1030-2GB",
-    "description": "Asus Phoenix GeForce GT 1030 OC 2GB GDDR5 Graphics Card (PH-GT1030-O2G)",
-    "shop": "itworld",
-    "price": 5199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/asus-ph-gt1030-o2g-asus-phoenix-geforce-gt-1030-oc-2gb-gddr5-graphics-card-ph-gt1030-o2g-8600?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX7800XT",
-    "description": "Sapphire Nitro+ AMD Radeon RX 7800 XT Gaming OC 16GB GDDR6 Graphic Card (SPR-11330-01-20G)",
-    "shop": "itworld",
-    "price": 36789.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/spr-11330-01-20g-sapphire-nitro-amd-radeon-rx-7800-xt-gaming-oc-16gb-gddr6-graphic-card-spr-11330-01-20g-12374?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "MSI Geforce RTX 4060 Ventus 2X White 8GB GDDR6 OC Graphic Card",
-    "shop": "itworld",
-    "price": 20569.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4060-ventus-2x-white-8g-oc-msi-geforce-rtx-4060-ventus-2x-white-8gb-gddr6-oc-graphic-card-11055?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6600",
-    "description": "Asrock AMD Radeon RX6600 Challenger/Challenger D 8GB GDDR6 Graphics Card",
-    "shop": "itworld",
-    "price": 12899.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/asrock-rx6600-cld-8g-challenger-d-asrock-amd-radeon-rx6600-challenger-challenger-d-8gb-gddr6-graphics-card-8577?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-8GB",
-    "description": "msi Geforce rtx 3050 Ventus 2x xs 8gb gddr6 oc Graphic Card",
-    "shop": "itworld",
-    "price": 12999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-3050-ventus-2x-xs-8g-oc-msi-geforce-rtx-3050-ventus-2x-xs-8gb-gddr6-oc-graphic-card-11050?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI1-6GB",
-    "description": "Gigabyte Geforce RTX 4060 Ti Windforce OC 16GB GDDR6 Graphic Card (GV-N406TWF2OC-16GD)",
-    "shop": "itworld",
-    "price": 30099.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n406twf2oc-16gd-gigabyte-geforce-rtx-4060-ti-windforce-oc-16gb-gddr6-graphic-card-gv-n406twf2oc-16gd-10077?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "Palit Dual Geforce RTX 3050 8GB GDDR6 Graphic Card (NE63050018P1-1070D)",
-    "shop": "itworld",
-    "price": 12999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ne63050018p1-1070d-palit-dual-geforce-rtx-3050-8gb-gddr6-graphic-card-ne63050018p1-1070d-11478?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "GT710",
-    "description": "Itw | ASUS GT710 2GB GDDR5 EVO Geforce Graphic Card (GT710-SL-2GD5-BRK-EVO)",
-    "shop": "itworld",
-    "price": 2699.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gt710-sl-2gd5-brk-evo-itw-asus-gt710-2gb-gddr5-evo-geforce-graphic-card-gt710-sl-2gd5-brk-evo-10384?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "Itw | Palit RTX 3050 6GB GDDR6 StormX GeForce Graphics Card (NE63050018JE-1070F)",
-    "shop": "itworld",
-    "price": 9749.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ne63050018je-1070f-itw-palit-rtx-3050-6gb-gddr6-stormx-geforce-graphics-card-ne63050018je-1070f-11479?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6600",
-    "description": "Asrock AMD Radeon RX6600 Challenger 8GB GDDR6 Graphics Card",
-    "shop": "itworld",
-    "price": 13989.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/asrock-rx6600-challenger-white-8gb-asrock-amd-radeon-rx6600-challenger-8gb-gddr6-graphics-card-8576?category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "MSI GeForce RTX 3050 VENTUS 2X 6G OC GDDR6 Graphics Card (MSI RTX 3050 VENTUS 2X 6G OC)",
-    "shop": "itworld",
-    "price": 10799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-rtx-3050-ventus-2x-6g-oc-msi-geforce-rtx-3050-ventus-2x-6g-oc-gddr6-graphics-card-msi-rtx-3050-ventus-2x-6g-oc-11045?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "Gigabyte GeForce RTX 4060 Eagle OC Ice 8GB GDDR6 128bit (GV-N4060EAGLEOC-ICE-8GD)",
-    "shop": "itworld",
-    "price": 19949.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n4060eagleoc-ice-8gd-gigabyte-geforce-rtx-4060-eagle-oc-ice-8gb-gddr6-128bit-gv-n4060eagleoc-ice-8gd-10069?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "ASUS Dual RTX 3050 OC 6GB GDDR6 Geforce Graphic Card (DUAL-RTX3050-O6G)",
-    "shop": "itworld",
-    "price": 11299.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/dual-rtx3050-o6g-asus-dual-rtx-3050-oc-6gb-gddr6-geforce-graphic-card-dual-rtx3050-o6g-8234?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "Gigabyte RTX 4060 Ti Gaming OC 8GB GDDR6 Geforce Graphic Card (GV-N406TGAMING-OC-8GD)",
-    "shop": "itworld",
-    "price": 26199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n406tgaming-oc-8gd-gigabyte-rtx-4060-ti-gaming-oc-8gb-gddr6-geforce-graphic-card-gv-n406tgaming-oc-8gd-10130?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "MSI RTX 4060 Gaming X 8G MLG 8GB GDDR6 GeForce Graphic Card",
-    "shop": "itworld",
-    "price": 23099.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4060-gaming-x-8g-mlg-msi-rtx-4060-gaming-x-8g-mlg-8gb-gddr6-geforce-graphic-card-11138?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "MSI RTX 4060 Ti 8GB GDDR6 Gaming Slim Monster Hunter Geforce Graphic Card with Controller",
-    "shop": "itworld",
-    "price": 32999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4060-ti-8g-x-gc3-monster-hunter-edition-msi-rtx-4060-ti-8gb-gddr6-gaming-slim-monster-hunter-geforce-graphic-card-with-controller-11139?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX6500XT",
-    "description": "Asus Dual Radeon RX 6500 XT V2 OC Edition 4GB GDDR6 Graphics Card (DUAL-RX6500XT-O4G-V2)",
-    "shop": "itworld",
-    "price": 8689.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/dual-rx6500xt-o4g-v2-asus-dual-radeon-rx-6500-xt-v2-oc-edition-4gb-gddr6-graphics-card-dual-rx6500xt-o4g-v2-10398?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070S",
-    "description": "MSI RTX4070 SUPER 12GB Gaming Slim World of Warcraft Edition Graphics Card",
-    "shop": "itworld",
-    "price": 47599.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4070-super-12g-gaming-slim-world-of-warcraft-msi-rtx4070-super-12gb-gaming-slim-world-of-warcraft-edition-graphics-card-11157?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX580-8GB",
-    "description": "XFX RX 580 8GB GDDR5 AMD Radeon Graphic Card (RX-580S85DD6)",
-    "shop": "itworld",
-    "price": 6499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx-580s85dd6-xfx-rx-580-8gb-gddr5-amd-radeon-graphic-card-rx-580s85dd6-13591?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "Itw | Galax RTX 3050 EX 6GB GDDR6 Geforce Graphic Card (35NRLDMD9OEX)",
-    "shop": "itworld",
-    "price": 11199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/35nrldmd9oex-itw-galax-rtx-3050-ex-6gb-gddr6-geforce-graphic-card-35nrldmd9oex-9940?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "Gigabyte RTX 4060 Ti Eagle OC Ice 8G GDDR6 Geforce GraphicCard (GV-N406TEAGLEOC-ICE-8GD)https://www.itworldph.com/odoo/action-575",
-    "shop": "itworld",
-    "price": 25949.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n406teagleoc-ice-8gd-gigabyte-rtx-4060-ti-eagle-oc-ice-8g-gddr6-geforce-graphiccard-gv-n406teagleoc-ice-8gd-https-www-itworldph-com-odoo-action-575-10129?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "Galax RTX 4060 Ti 8GB GDDR6 EX White 1-Click OC Geforce Graphic Card (46ISL8MD8BWE)",
-    "shop": "itworld",
-    "price": 28199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/46isl8md8bwe-galax-rtx-4060-ti-8gb-gddr6-ex-white-1-click-oc-geforce-graphic-card-46isl8md8bwe-9946?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060",
-    "description": "Itw | ASUS RTX 4060 EVO White Edition 8GB GDDR6 Geforce Graphic Card (DUAL-RTX4060-O8G-EVO-WHITE)",
-    "shop": "itworld",
-    "price": 21449.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/asus-dual-rtx4060-o8g-evo-white-itw-asus-rtx-4060-evo-white-edition-8gb-gddr6-geforce-graphic-card-dual-rtx4060-o8g-evo-white-10391?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070TI",
-    "description": "MSI RTX 4070 Ti Ventus 3X E1 12GB GDDR6X Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 50099.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4070-ti-ventus-3x-e1-12g-oc-msi-rtx-4070-ti-ventus-3x-e1-12gb-gddr6x-geforce-graphic-card-11149?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "Gigabyte RTX 3050 Windforce OC V2 6GB GDDR6 Geforce Graphic Card (GV-N3050WF2OCV2-6GD)",
-    "shop": "itworld",
-    "price": 10489.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n3050wf2ocv2-6gd-gigabyte-rtx-3050-windforce-oc-v2-6gb-gddr6-geforce-graphic-card-gv-n3050wf2ocv2-6gd-10126?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4060TI-8GB",
-    "description": "Galax RTX 4060 Ti 1-Click OC V2 8GB GDDR6 Geforce Graphic Card (46ISL8MDAPOC)",
-    "shop": "itworld",
-    "price": 25399.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/46isl8mdapoc-galax-rtx-4060-ti-1-click-oc-v2-8gb-gddr6-geforce-graphic-card-46isl8mdapoc-9945?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "ARCB580",
-    "description": "ASRock Intel Arc B580 Challenger 12GB GDDR6 OC Graphic Card (AR-B580-CL-12GO)",
-    "shop": "itworld",
-    "price": 17999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ar-b580-cl-12go-asrock-intel-arc-b580-challenger-12gb-gddr6-oc-graphic-card-ar-b580-cl-12go-8173?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 16GB GDDR7 OC Edition ROG Astral Geforce Graphic Card (ROG-ASTRAL-RTX5080-O16G-GAMING)",
-    "shop": "itworld",
-    "price": 110999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rog-astral-rtx5080-o16g-gaming-asus-rtx-5080-16gb-gddr7-oc-edition-rog-astral-geforce-graphic-card-rog-astral-rtx5080-o16g-gaming-8620?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte RTX 5080 Gaming OC 16GB GDDR7 Geforce Graphic Card (GV-N5080GAMING-OC-16GD)",
-    "shop": "itworld",
-    "price": 91999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5080gaming-oc-16gd-gigabyte-rtx-5080-gaming-oc-16gb-gddr7-geforce-graphic-card-gv-n5080gaming-oc-16gd-10142?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Zotac Gaming RTX 5080 Solic OC 16GB GDDR7 Geforce Graphic Card (ZT-B50800J-10P)",
-    "shop": "itworld",
-    "price": 91899.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-b50800j-10p-zotac-gaming-rtx-5080-solic-oc-16gb-gddr7-geforce-graphic-card-zt-b50800j-10p-13628?page=2&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Itw | Palit RTX 5090 32GB GDDR7 Blackwell Architecture ARGB Sync Evo GeForce Graphics Card",
-    "shop": "itworld",
-    "price": 157999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ne75090019r5-gb2020g-itw-palit-rtx-5090-32gb-gddr7-blackwell-architecture-argb-sync-evo-geforce-graphics-card-11485?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070 Ti Eagle OC SFF 16GB GDDR7 Graphic Card (GV-N507TEAGLE-OC-16GD)",
-    "shop": "itworld",
-    "price": 67989.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n507teagle-oc-16gd-gigabyte-rtx-5070-ti-eagle-oc-sff-16gb-gddr7-graphic-card-gv-n507teagle-oc-16gd-10137?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070 Ti Gaming OC 16GB GDDR7 Geforce Graphic Card (GV-N507TGAMING-OC-16GD)",
-    "shop": "itworld",
-    "price": 70999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n507tgaming-oc-16gd-gigabyte-rtx-5070-ti-gaming-oc-16gb-gddr7-geforce-graphic-card-gv-n507tgaming-oc-16gd-10138?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "ASUS RTX 5070 TI 16GB GDDR7 OC Edition TUF Gaming Geforce Graphic Card (TUF-RTX5070TI-O16G-GAMING",
-    "shop": "itworld",
-    "price": 72979.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/tuf-rtx5070ti-o16g-gaming-asus-rtx-5070-ti-16gb-gddr7-oc-edition-tuf-gaming-geforce-graphic-card-tuf-rtx5070ti-o16g-gaming-8371?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 16GB GDDR7 Prime Geforce Graphic Card (PRIME-RTX5080-16G)",
-    "shop": "itworld",
-    "price": 85499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/prime-rtx5080-16g-asus-rtx-5080-16gb-gddr7-prime-geforce-graphic-card-prime-rtx5080-16g-8622?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "ASUS RTX 5090 32GB GDDR7 OC Edition ROG Astral Geforce Graphic Card (ROG-ASTRAL-RTX5090-O32G-GAMING)",
-    "shop": "itworld",
-    "price": 216659.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rog-astral-rtx5090-o32g-gaming-asus-rtx-5090-32gb-gddr7-oc-edition-rog-astral-geforce-graphic-card-rog-astral-rtx5090-o32g-gaming-8374?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Asus RTX 5080 16GB GDDR7 OC Edition TUF Gaming Geforce Graphic Card (TUF-RTX5080-O16G-GAMING)",
-    "shop": "itworld",
-    "price": 96599.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/tuf-rtx5080-o16g-gaming-asus-rtx-5080-16gb-gddr7-oc-edition-tuf-gaming-geforce-graphic-card-tuf-rtx5080-o16g-gaming-8621?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070 Ti Windforce OC SFF 16GB GDDR7 Geforce Graphic Card (GV-N507TWF3OC-16GD)",
-    "shop": "itworld",
-    "price": 65999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n507twf3oc-16gd-gigabyte-rtx-5070-ti-windforce-oc-sff-16gb-gddr7-geforce-graphic-card-gv-n507twf3oc-16gd-10140?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070 Ti Eagle OC Ice SFF 16GB GDDR7 Geforce Graphic Card (GV-N507TEAGLEOC-ICE-16GD)",
-    "shop": "itworld",
-    "price": 69269.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n507teagleoc-ice-16gd-gigabyte-rtx-5070-ti-eagle-oc-ice-sff-16gb-gddr7-geforce-graphic-card-gv-n507teagleoc-ice-16gd-10136?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte RTX 5080 Aero OC SFF 16GB GDDR7 Geforce Graphic Card (GV-N5080AERO-OC-16GD)",
-    "shop": "itworld",
-    "price": 92999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5080aero-oc-16gd-gigabyte-rtx-5080-aero-oc-sff-16gb-gddr7-geforce-graphic-card-gv-n5080aero-oc-16gd-10141?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI RTX 5070 Ti 16GB GDDR7 Vanguard SOC Launch Edition Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 63399.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5070-ti-16g-vanguard-soc-launch-msi-rtx-5070-ti-16gb-gddr7-vanguard-soc-launch-edition-geforce-graphic-card-11154?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Zotac Gaming RTX 5070 Ti 16GB GDDR7 Solid OC Geforce Graphic Card (ZT-B50710J-10P)",
-    "shop": "itworld",
-    "price": 65599.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-b50710j-10p-zotac-gaming-rtx-5070-ti-16gb-gddr7-solid-oc-geforce-graphic-card-zt-b50710j-10p-13626?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Zotac Gaming RTX 5090 32GB GDDR7 AMP Extreme Infinity Geforce Graphic Card (ZT-B50900B-10P)",
-    "shop": "itworld",
-    "price": 191999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-b50900b-10p-zotac-gaming-rtx-5090-32gb-gddr7-amp-extreme-infinity-geforce-graphic-card-zt-b50900b-10p-13627?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Gigabyte Aorus RTX 5080 16GB GDDR7 Master Ice Geforce Graphic Card (GV-N5080AORUSM-ICE-16GD)",
-    "shop": "itworld",
-    "price": 101999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5080aorusm-ice-16gd-gigabyte-aorus-rtx-5080-16gb-gddr7-master-ice-geforce-graphic-card-gv-n5080aorusm-ice-16gd-10144?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Itw | Gigabyte RTX 5090 32GB GDDR7 Gaming OC GeForce Graphic Card (GV-N5090GAMING-OC-32GD)",
-    "shop": "itworld",
-    "price": 174949.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5090gaming-oc-32gd-itw-gigabyte-rtx-5090-32gb-gddr7-gaming-oc-geforce-graphic-card-gv-n5090gaming-oc-32gd-10146?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Gigabyte RTX 5070 Ti Aero OC 16GB GDDR7 Geforce Graphic Card (GV-N507TAERO-OC-16GD)",
-    "shop": "itworld",
-    "price": 72989.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n507taero-oc-16gd-gigabyte-rtx-5070-ti-aero-oc-16gb-gddr7-geforce-graphic-card-gv-n507taero-oc-16gd-10135?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Eagle OC SFF 12GB GDDR7 Geforce Graphic Card (GV-N5070EAGLE-OC-12GD)",
-    "shop": "itworld",
-    "price": 45289.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070eagle-oc-12gd-gigabyte-rtx-5070-eagle-oc-sff-12gb-gddr7-geforce-graphic-card-gv-n5070eagle-oc-12gd-10133?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Gaming OC 12GB GDDR7 Geforce Graphic Card (GV-N5070GAMING-OC-12GD)",
-    "shop": "itworld",
-    "price": 47489.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070gaming-oc-12gd-gigabyte-rtx-5070-gaming-oc-12gb-gddr7-geforce-graphic-card-gv-n5070gaming-oc-12gd-10134?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "ASUS RTX 5070 12GB GDDR7 OC Edition TUF Gaming Geforce Graphic Card (TUF-RTX5070-O12G-GAMING)",
-    "shop": "itworld",
-    "price": 54869.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/tuf-rtx5070-o12g-gaming-asus-rtx-5070-12gb-gddr7-oc-edition-tuf-gaming-geforce-graphic-card-tuf-rtx5070-o12g-gaming-8370?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Itw | Gigabyte RX 9070 16GB GDDR6 AMD Radeon Gaming OC Graphic Card (GV-R9070GAMING-OC-16GD)",
-    "shop": "itworld",
-    "price": 43999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r9070gaming-oc-16gd-itw-gigabyte-rx-9070-16gb-gddr6-amd-radeon-gaming-oc-graphic-card-gv-r9070gaming-oc-16gd-9922?page=3&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "SAPPHIRE PULSE AMD Radeon RX 9070 XT GAMING 16GB",
-    "shop": "itworld",
-    "price": 46499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/spr-11348-03-20g-sapphire-pulse-amd-radeon-rx-9070-xt-gaming-16gb-11659?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "SAPPHIRE NITRO+ AMD Radeon RX 9070 XT GAMING OC16GB",
-    "shop": "itworld",
-    "price": 52999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/spr-11348-01-20g-sapphire-nitro-amd-radeon-rx-9070-xt-gaming-oc16gb-11656?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "ASUS RX 9070 OC Edition 16GB GDDR6 TUF Gaming AMD Radeon Graphic Card (TUF-RX9070-O16G-GAMING)",
-    "shop": "itworld",
-    "price": 50999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/tuf-rx9070-o16g-gaming-asus-rx-9070-oc-edition-16gb-gddr6-tuf-gaming-amd-radeon-graphic-card-tuf-rx9070-o16g-gaming-8413?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Itw | ASUS RX9070 XT 16GB GDDR6 OC Prime AMD Radeon Graphic Card (PRIME-RX9070XT-O16G)",
-    "shop": "itworld",
-    "price": 55499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/prime-rx9070xt-o16g-itw-asus-rx9070-xt-16gb-gddr6-oc-prime-amd-radeon-graphic-card-prime-rx9070xt-o16g-8320?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "ASUS RX 9070 OC Edition 16GB GDDR6 Prime AMD Radeon Graphic Card (PRIME-RX9070-O16G)",
-    "shop": "itworld",
-    "price": 49799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/prime-rx9070-o16g-asus-rx-9070-oc-edition-16gb-gddr6-prime-amd-radeon-graphic-card-prime-rx9070-o16g-8319?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Eagle OC Ice SFF 12GB GDDR7 Geforce Graphic Card (GV-N5070EAGLEOC-ICE-12GD)",
-    "shop": "itworld",
-    "price": 45989.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070eagleoc-ice-12gd-gigabyte-rtx-5070-eagle-oc-ice-sff-12gb-gddr7-geforce-graphic-card-gv-n5070eagleoc-ice-12gd-9923?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Windforce OC SFF 12GB GDDR7 Geforce Graphic Card (GV-N5070WF3OC-12GD)",
-    "shop": "itworld",
-    "price": 42999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070wf3oc-12gd-gigabyte-rtx-5070-windforce-oc-sff-12gb-gddr7-geforce-graphic-card-gv-n5070wf3oc-12gd-9924?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Palit RTX 5070 GamingPro 12GB GDDR7 Geforce Graphic Card (NE75070019K9-GB2050A)",
-    "shop": "itworld",
-    "price": 41569.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ne75070019k9-gb2050a-palit-rtx-5070-gamingpro-12gb-gddr7-geforce-graphic-card-ne75070019k9-gb2050a-11431?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Master 12GB GDDR7 Aorus Geforce Graphic Card (GV-N5070AORUS-M-12GD)",
-    "shop": "itworld",
-    "price": 52499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070aorus-m-12gd-gigabyte-rtx-5070-master-12gb-gddr7-aorus-geforce-graphic-card-gv-n5070aorus-m-12gd-8116?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "Colorful RTX 5080 iGame Advanced OC 16GB-V GDDR7 Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 79999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/igame-geforce-rtx-5080-advanced-oc-16gb-v-colorful-rtx-5080-igame-advanced-oc-16gb-v-gddr7-geforce-graphic-card-8948?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX4070TI",
-    "description": "MSI GEFORCE RTX 4070 TI VENTUS 3X 12G OCV1",
-    "shop": "itworld",
-    "price": 51999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rtx-4070-ti-ventus-3x-12g-ocv1-msi-geforce-rtx-4070-ti-ventus-3x-12g-ocv1-11027?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX3050-6GB",
-    "description": "Zotac RTX 3050 6GB GDDR6 Twin Edge OC Gaming Geforce Graphic Card (ZT-A30510H-10L)",
-    "shop": "itworld",
-    "price": 11199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-a30510h-10l-zotac-rtx-3050-6gb-gddr6-twin-edge-oc-gaming-geforce-graphic-card-zt-a30510h-10l-13908?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "PNY RTX 5080 OC 16GB GDDR7 Geforce Graphic Card (VCG508016TFXPB1-O)",
-    "shop": "itworld",
-    "price": 83399.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/vcg508016tfxpb1-o-pny-rtx-5080-oc-16gb-gddr7-geforce-graphic-card-vcg508016tfxpb1-o-13922?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Itw | Gigabyte RTX 5090 MASTER 32GB GDDR7 AUROS GeForce Graphic Card (GV-N5090AORUS-M-32GD)",
-    "shop": "itworld",
-    "price": 186499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5090aorus-m-32gd-itw-gigabyte-rtx-5090-master-32gb-gddr7-auros-geforce-graphic-card-gv-n5090aorus-m-32gd-15520?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "Itw | Gigabyte RX 9070 XT Gaming OC 16GB GDDR6 AMD Radeon Graphic Card (GV-R9070XTGAMING-OC-16GD)",
-    "shop": "itworld",
-    "price": 48499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r9070xtgaming-oc-16gd-itw-gigabyte-rx-9070-xt-gaming-oc-16gb-gddr6-amd-radeon-graphic-card-gv-r9070xtgaming-oc-16gd-15565?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Aero OC 12GB GDDR7 Geforce Graphic Card (GV-N5070AERO-OC-12GD)",
-    "shop": "itworld",
-    "price": 48999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070aero-oc-12gd-gigabyte-rtx-5070-aero-oc-12gb-gddr7-geforce-graphic-card-gv-n5070aero-oc-12gd-15563?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "Gigabyte RTX 5070 Windforce SFF 12GB GDDR7 Geforce Graphic Card (GV-N5070WF3-12GD)",
-    "shop": "itworld",
-    "price": 40199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5070wf3-12gd-gigabyte-rtx-5070-windforce-sff-12gb-gddr7-geforce-graphic-card-gv-n5070wf3-12gd-15564?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Itw | Gigabyte Aorus RTX 5090 32GB GDDR7 Master Ice GeForce Graphics Card (GV-N5090AORUSM-ICE-32GD)",
-    "shop": "itworld",
-    "price": 186499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n5090aorusm-ice-32gd-itw-gigabyte-aorus-rtx-5090-32gb-gddr7-master-ice-geforce-graphics-card-gv-n5090aorusm-ice-32gd-15521?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 16GB GDDR7 Inspire 3X OC Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 79899.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5080-16g-inspire-3x-oc-msi-rtx-5080-16gb-gddr7-inspire-3x-oc-geforce-graphic-card-15647?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "Zotac Gaming RTX 5070 Ti Solid SFF OC 16GB GDDR7 Geforce Graphic Card (ZT-B50710J3-10P)",
-    "shop": "itworld",
-    "price": 60199.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-b50710j3-10p-zotac-gaming-rtx-5070-ti-solid-sff-oc-16gb-gddr7-geforce-graphic-card-zt-b50710j3-10p-15767?page=4&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 12GB GDDR7 Gaming Trio OC Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 44629.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5070-12g-gaming-trio-oc-msi-rtx-5070-12gb-gddr7-gaming-trio-oc-geforce-graphic-card-15645?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI RTX 5070 12GB GDDR7 Ventus 2X OC Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 42499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5070-12g-ventus-2x-oc-msi-rtx-5070-12gb-gddr7-ventus-2x-oc-geforce-graphic-card-15646?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI RTX 5080 DDR7 16GB Shadow 3X OC Graphics Card (GEFORCE RTX 5080 16G SHADOW 3X OC)",
-    "shop": "itworld",
-    "price": 72999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5080-16g-shadow-3x-oc-msi-rtx-5080-ddr7-16gb-shadow-3x-oc-graphics-card-geforce-rtx-5080-16g-shadow-3x-oc-15636?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "Itw | MSI RTX 5090 32GB GDDR7 Ventus 3X OC GeForce Graphics Card (GEFORCE RTX 5090 32G VENTUS 3X OC)",
-    "shop": "itworld",
-    "price": 139449.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5090-32g-ventus-3x-oc-itw-msi-rtx-5090-32gb-gddr7-ventus-3x-oc-geforce-graphics-card-geforce-rtx-5090-32g-ventus-3x-oc-15639?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Gigabyte RTX 5060 TIOC 16GB GDDR7 GeForce Graphics Card (GV-N506T Gaming-OC-16GD)",
-    "shop": "itworld",
-    "price": 35989.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n506tgaming-oc-16gd-gigabyte-rtx-5060-tioc-16gb-gddr7-geforce-graphics-card-gv-n506t-gaming-oc-16gd-15562?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "MSI GEFORCE RTX 5070 12G SHADOW 2X OC (912-V532-011)",
-    "shop": "itworld",
-    "price": 39999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-geforce-rtx-5070-12g-shadow-2x-oc-msi-geforce-rtx-5070-12g-shadow-2x-oc-912-v532-011-15633?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5080",
-    "description": "MSI GEFORCE RTX 5080 16G GAMING TRIO OC WHITE (912-V531-045)",
-    "shop": "itworld",
-    "price": 82499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-geforce-rtx-5080-16g-gaming-trio-oc-white-msi-geforce-rtx-5080-16g-gaming-trio-oc-white-912-v531-045-15635?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5090",
-    "description": "MSI GEFORCE RTX 5090 32G SUPRIM LIQUID SOC (912-V530-025)",
-    "shop": "itworld",
-    "price": 174999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-geforce-rtx-5090-32g-suprim-liquid-soc-msi-geforce-rtx-5090-32g-suprim-liquid-soc-912-v530-025-15637?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "MSI GEFORCE RTX 5070 TI 16G SHADOW 3X OC (912-V531-097)",
-    "shop": "itworld",
-    "price": 54249.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/msi-geforce-rtx-5070-ti-16g-shadow-3x-oc-msi-geforce-rtx-5070-ti-16g-shadow-3x-oc-912-v531-097-15634?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "Zotac Gaming RTX 5060 Ti Twin Edge 8GB GDDR7 Geforce Graphic Card (ZT-B50610H-10M)",
-    "shop": "itworld",
-    "price": 27999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-b50610h-10m-zotac-gaming-rtx-5060-ti-twin-edge-8gb-gddr7-geforce-graphic-card-zt-b50610h-10m-15765?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Zotac Gaming RTX 5060 Ti Twin Edge 16GB GDDR7 Geforce Graphic Card (ZT-B50620H-10M)",
-    "shop": "itworld",
-    "price": 31499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/zt-b50620h-10m-zotac-gaming-rtx-5060-ti-twin-edge-16gb-gddr7-geforce-graphic-card-zt-b50620h-10m-15766?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "ASUS RTX 5060 Ti OC 16GB GDDR7 Dual Geforce Graphic Card (DUAL-RTX5060TI-O16G)",
-    "shop": "itworld",
-    "price": 32499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/dual-rtx5060ti-o16g-asus-rtx-5060-ti-oc-16gb-gddr7-dual-geforce-graphic-card-dual-rtx5060ti-o16g-15524?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "PALIT RTX5060Ti DUAL 8GB GDDR7",
-    "shop": "itworld",
-    "price": 26449.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/ne7506t019p1-gb2062d-palit-rtx5060ti-dual-8gb-gddr7-15653?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Gigabyte RTX 5060 Ti Elite 16GB GDDR7 Aorus GeForce Graphic Card (GV-N506TAORUS-E-16GD)",
-    "shop": "itworld",
-    "price": 38499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n506taorus-e-16gd-gigabyte-rtx-5060-ti-elite-16gb-gddr7-aorus-geforce-graphic-card-gv-n506taorus-e-16gd-15519?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Gigabyte RTX 5060 Ti 16GB GDDR7 OC EAGLE GeForce Graphic Card (GV-N506TEAGLE-OC-16GD)",
-    "shop": "itworld",
-    "price": 36299.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-n506teagle-oc-16gd-gigabyte-rtx-5060-ti-16gb-gddr7-oc-eagle-geforce-graphic-card-gv-n506teagle-oc-16gd-15559?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "MSI GEFORCE RTX 5060 TI 16G VANGUARD SOC (912-V535-026)",
-    "shop": "itworld",
-    "price": 36799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5060-ti-16g-vanguard-soc-msi-geforce-rtx-5060-ti-16g-vanguard-soc-912-v535-026-15629?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-16GB",
-    "description": "Itw | MSI RTX 5060 Ti 16GB GDRR7 Ventus 2X OC Plus Geforce Graphic Card",
-    "shop": "itworld",
-    "price": 32499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-itw-msi-rtx-5060-ti-16gb-gdrr7-ventus-2x-oc-plus-geforce-graphic-card-15630?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "MSI GEFORCE RTX 5060 TI 8G GAMING TRIO OC (912-V536-022)",
-    "shop": "itworld",
-    "price": 29649.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5060-ti-8g-gaming-trio-oc-msi-geforce-rtx-5060-ti-8g-gaming-trio-oc-912-v536-022-15631?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060TI-8GB",
-    "description": "MSI GEFORCE RTX 5060 TI 8G VENTUS 2X OC PLUS (B3904640T)",
-    "shop": "itworld",
-    "price": 26799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/geforce-rtx-5060-ti-8g-ventus-2x-oc-plus-msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus-b3904640t-15632?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070",
-    "description": "COLORFUL IGAME GEFORCE RTX 5070 ULTRA W OC 12GB-V (21236127812)",
-    "shop": "itworld",
-    "price": 42589.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/igame-geforce-rtx-5070-ultra-w-oc-12gb-v-colorful-igame-geforce-rtx-5070-ultra-w-oc-12gb-v-21236127812-15545?page=5&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070",
-    "description": "Asrock  RX 9070 16GB AMD Radeon XT Steel Legend Dark (RX9070XT SLD 16G)",
-    "shop": "itworld",
-    "price": 49899.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx9070xt-sld-16g-asrock-rx-9070-16gb-amd-radeon-xt-steel-legend-dark-rx9070xt-sld-16g-15909?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9070XT",
-    "description": "ASROCK RX9070XT TC 16GO (90-GA5HZZ-00UANF)",
-    "shop": "itworld",
-    "price": 53499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx9070xt-tc-16go-asrock-rx9070xt-tc-16go-90-ga5hzz-00uanf-16548?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "Powercolor RX9060 XT 8GB GDDR6 Reaper AMD Radeon Graphic Card (RX9060XT)",
-    "shop": "itworld",
-    "price": 22699.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/reaper-rx9060xt-powercolor-rx9060-xt-8gb-gddr6-reaper-amd-radeon-graphic-card-rx9060xt-16593?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "Sapphire RX 9060 XT 8GB GDDR6 Gaming OC PULSE AMD Radeon Graphic Card (SPR-11350-04-20G)",
-    "shop": "itworld",
-    "price": 21599.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/spr-11350-04-20g-sapphire-rx-9060-xt-8gb-gddr6-gaming-oc-pulse-amd-radeon-graphic-card-spr-11350-04-20g-16599?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-16GB",
-    "description": "Gigabyte RX9060 XT 16GB GDDR6 Gaming OC AMD Radeon Graphic Card (GV-R9060XTGAMING-OC-16GD)",
-    "shop": "itworld",
-    "price": 27599.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r9060xtgaming-oc-16gd-gigabyte-rx9060-xt-16gb-gddr6-gaming-oc-amd-radeon-graphic-card-gv-r9060xtgaming-oc-16gd-16613?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "Gigabyte RX9060 XT 8GB GDDR6 Gaming OC AMD Radeon Graphic Card (GV-R9060XTGAMING-OC-8GD)",
-    "shop": "itworld",
-    "price": 22979.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r9060xtgaming-oc-8gd-gigabyte-rx9060-xt-8gb-gddr6-gaming-oc-amd-radeon-graphic-card-gv-r9060xtgaming-oc-8gd-16614?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "Gigabyte RX9060 8GB GDDR6 XT Gaming AMD Radeon Graphic Card (GV-R9060XTGAMING-8GD)",
-    "shop": "itworld",
-    "price": 22699.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/gv-r9060xtgaming-8gd-gigabyte-rx9060-8gb-gddr6-xt-gaming-amd-radeon-graphic-card-gv-r9060xtgaming-8gd-16615?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5060",
-    "description": "Itw | ASUS Graphics Card Dual GeForce RTX\u2122 5060 8GB GDDR7 OC Edition",
-    "shop": "itworld",
-    "price": 20999.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/dual-rtx5060-o8g-itw-asus-graphics-card-dual-geforce-rtxtm-5060-8gb-gddr7-oc-edition-16667?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "AsRock RX9060 OC 8GB GDDR6 XT Steel Legend AMD Radeon Graphic Card (RX9060XT SL 8GO)",
-    "shop": "itworld",
-    "price": 22799.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx9060xt-sl-8go-asrock-rx9060-oc-8gb-gddr6-xt-steel-legend-amd-radeon-graphic-card-rx9060xt-sl-8go-16788?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RX9060XT-8GB",
-    "description": "AsRock RX9060 OC 8GB GDDR6 XT Challenger AMD Radeon Graphic Card (RX9060XT CL 8GO)",
-    "shop": "itworld",
-    "price": 21499.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/rx9060xt-cl-8go-asrock-rx9060-oc-8gb-gddr6-xt-challenger-amd-radeon-graphic-card-rx9060xt-cl-8go-16789?page=6&category=11"
-  },
-  {
-    "category": "GPU",
-    "model": "RTX5070TI",
-    "description": "ASUS RTX 5070 Ti 16GB GDDR7 White OC Edition NVIDIA - TUF Gaming GeForce Graphics Card",
-    "shop": "itworld",
-    "price": 71649.0,
-    "availability": "In Stock",
-    "link": "https://www.itworldph.com/shop/tuf-rtx5070ti-o16g-white-gaming-asus-rtx-5070-ti-16gb-gddr7-white-oc-edition-nvidia-tuf-gaming-geforce-graphics-card-16882?page=6&category=11"
   },
   {
     "category": "GPU",
@@ -18985,7 +18031,7 @@
     "model": "RTX3050-6GB",
     "description": "MSI GeForce RTX\u2122  3050 VENTUS 2X 6GB GDDR6 OC 96-bit Graphics Card",
     "shop": "pcx",
-    "price": 10700.0,
+    "price": 10600.0,
     "availability": "In Stock",
     "link": "https://pcx.com.ph/products/msi-geforce-rtx-3050-ventus-2x-6gb-gddr6-oc-96-bit-graphics-card"
   },
