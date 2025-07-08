@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>GPU Price Trends</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    nav a { margin-right: 10px; }
+    canvas { max-width: 100%; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Table</a>
+    <a href="graphs.html">Graphs</a>
+  </nav>
+  <h1>GPU Price Trends</h1>
+  <label for="gpuSelect">Select GPU:</label>
+  <select id="gpuSelect"></select>
+  <div>
+    <canvas id="trendChart"></canvas>
+  </div>
+  <script src="graphs.js"></script>
+</body>
+</html>
