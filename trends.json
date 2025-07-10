@@ -275,6 +275,17 @@
             "link": "https://easypc.com.ph/products/asrock-rx-6600-8g-challenger-d-8gb-128bit-gddr6-gaming-videocard"
           }
         ]
+      },
+      {
+        "model": "RX6600",
+        "date": "2025-07-10",
+        "price": 12495.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/asrock-rx-6600-8g-challenger-d-8gb-128bit-gddr6-gaming-videocard"
+          }
+        ]
       }
     ],
     "RTX3060-12GB": [
@@ -569,6 +580,21 @@
       {
         "model": "RTX3060-12GB",
         "date": "2025-07-09",
+        "price": 15795.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          },
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/colorful-geforce-rtx-3060-nb-duo-12g-v2-l-v-gddr6-graphics-card"
+          }
+        ]
+      },
+      {
+        "model": "RTX3060-12GB",
+        "date": "2025-07-10",
         "price": 15795.0,
         "stores": [
           {
@@ -877,6 +903,21 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX3060-8GB",
+        "date": "2025-07-10",
+        "price": 14995.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          },
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RX7800XT": [
@@ -1154,6 +1195,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX7800XT",
+        "date": "2025-07-10",
+        "price": 30495.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RTX3060TI": [
@@ -1413,6 +1465,17 @@
       {
         "model": "RTX3060TI",
         "date": "2025-07-09",
+        "price": 19950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX3060TI",
+        "date": "2025-07-10",
         "price": 19950.0,
         "stores": [
           {
@@ -1697,6 +1760,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4060",
+        "date": "2025-07-10",
+        "price": 16850.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RX7600XT": [
@@ -1967,6 +2041,17 @@
       {
         "model": "RX7600XT",
         "date": "2025-07-09",
+        "price": 20975.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RX7600XT",
+        "date": "2025-07-10",
         "price": 20975.0,
         "stores": [
           {
@@ -2251,6 +2336,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX7900XT",
+        "date": "2025-07-10",
+        "price": 44950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RTX4060TI-8GB": [
@@ -2521,6 +2617,17 @@
       {
         "model": "RTX4060TI-8GB",
         "date": "2025-07-09",
+        "price": 19999.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "model": "RTX4060TI-8GB",
+        "date": "2025-07-10",
         "price": 19999.0,
         "stores": [
           {
@@ -2805,6 +2912,17 @@
             "link": ""
           }
         ]
+      },
+      {
+        "model": "RTX3050-6GB",
+        "date": "2025-07-10",
+        "price": 9499.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
       }
     ],
     "RTX3050": [
@@ -3064,6 +3182,17 @@
       {
         "model": "RTX3050",
         "date": "2025-07-09",
+        "price": 12995.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX3050",
+        "date": "2025-07-10",
         "price": 12995.0,
         "stores": [
           {
@@ -3372,6 +3501,21 @@
             "link": ""
           }
         ]
+      },
+      {
+        "model": "RX9070XT",
+        "date": "2025-07-10",
+        "price": 45699.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          },
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
       }
     ],
     "RTX5070TI": [
@@ -3642,6 +3786,17 @@
       {
         "model": "RTX5070TI",
         "date": "2025-07-09",
+        "price": 51999.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "model": "RTX5070TI",
+        "date": "2025-07-10",
         "price": 51999.0,
         "stores": [
           {
@@ -3926,6 +4081,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX3070TI",
+        "date": "2025-07-10",
+        "price": 23495.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX3050-8GB": [
@@ -4196,6 +4362,17 @@
       {
         "model": "RTX3050-8GB",
         "date": "2025-07-09",
+        "price": 11999.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "model": "RTX3050-8GB",
+        "date": "2025-07-10",
         "price": 11999.0,
         "stores": [
           {
@@ -4480,6 +4657,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX5070",
+        "date": "2025-07-10",
+        "price": 35000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RX7700XT": [
@@ -4757,6 +4945,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX7700XT",
+        "date": "2025-07-10",
+        "price": 26495.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RX6800XT": [
@@ -5023,6 +5222,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX6800XT",
+        "date": "2025-07-10",
+        "price": 28950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RX6800": [
@@ -5282,6 +5492,17 @@
       {
         "model": "RX6800",
         "date": "2025-07-09",
+        "price": 28395.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-radeon-rx-6800-speedster-swft-319-core-gaming-graphics-card-rx-68xlaqfd9/"
+          }
+        ]
+      },
+      {
+        "model": "RX6800",
+        "date": "2025-07-10",
         "price": 28395.0,
         "stores": [
           {
@@ -5566,6 +5787,17 @@
             "link": "https://bermorzone.com.ph/product-category/btzflashdeals/"
           }
         ]
+      },
+      {
+        "model": "RTX3070",
+        "date": "2025-07-10",
+        "price": 24995.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/btzflashdeals/"
+          }
+        ]
       }
     ],
     "RTX4070TI": [
@@ -5836,6 +6068,17 @@
       {
         "model": "RTX4070TI",
         "date": "2025-07-09",
+        "price": 40999.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "model": "RTX4070TI",
+        "date": "2025-07-10",
         "price": 40999.0,
         "stores": [
           {
@@ -6128,6 +6371,17 @@
             "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-7600-8gb-gddr6-graphics-card-spr-11324-01-20g/"
           }
         ]
+      },
+      {
+        "model": "RX7600",
+        "date": "2025-07-10",
+        "price": 16395.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/sapphire-pulse-amd-radeon-rx-7600-8gb-gddr6-graphics-card-spr-11324-01-20g/"
+          }
+        ]
       }
     ],
     "RX9070": [
@@ -6398,6 +6652,17 @@
       {
         "model": "RX9070",
         "date": "2025-07-09",
+        "price": 38995.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-swift-amd-radeon-rx-9070-oc-triple-90mm-fan-gaming-edition-graphics-card-16gb-gddr6-2700mhz-boost-rdna-4-rx-97swft3b7/"
+          }
+        ]
+      },
+      {
+        "model": "RX9070",
+        "date": "2025-07-10",
         "price": 38995.0,
         "stores": [
           {
@@ -6682,6 +6947,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "GT710",
+        "date": "2025-07-10",
+        "price": 1950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX2060": [
@@ -6941,6 +7217,17 @@
       {
         "model": "RTX2060",
         "date": "2025-07-09",
+        "price": 14795.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX2060",
+        "date": "2025-07-10",
         "price": 14795.0,
         "stores": [
           {
@@ -7218,6 +7505,17 @@
       {
         "model": "GTX1650",
         "date": "2025-07-09",
+        "price": 7495.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/zotac-geforce-gtx-1650-amp-core-4gb-gddr6-gaming-graphics-card-zt-t16520j-10l"
+          }
+        ]
+      },
+      {
+        "model": "GTX1650",
+        "date": "2025-07-10",
         "price": 7495.0,
         "stores": [
           {
@@ -7562,6 +7860,21 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4070S",
+        "date": "2025-07-10",
+        "price": 35950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          },
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX5060TI-8GB": [
@@ -7839,6 +8152,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX5060TI-8GB",
+        "date": "2025-07-10",
+        "price": 23000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTXA5000": [
@@ -7999,6 +8323,17 @@
       {
         "model": "RTXA5000",
         "date": "2025-07-09",
+        "price": 155000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTXA5000",
+        "date": "2025-07-10",
         "price": 155000.0,
         "stores": [
           {
@@ -8283,6 +8618,17 @@
             "link": "https://bermorzone.com.ph/product-category/btzflashdeals/"
           }
         ]
+      },
+      {
+        "model": "RTX3080TI",
+        "date": "2025-07-10",
+        "price": 39950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/btzflashdeals/"
+          }
+        ]
       }
     ],
     "RTX5080": [
@@ -8560,6 +8906,17 @@
             "link": ""
           }
         ]
+      },
+      {
+        "model": "RTX5080",
+        "date": "2025-07-10",
+        "price": 69499.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
       }
     ],
     "RX550-2GB": [
@@ -8720,6 +9077,17 @@
       {
         "model": "RX550-2GB",
         "date": "2025-07-09",
+        "price": 2999.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RX550-2GB",
+        "date": "2025-07-10",
         "price": 2999.0,
         "stores": [
           {
@@ -9004,6 +9372,17 @@
             "link": "https://bermorzone.com.ph/product-category/free-shipping-products/"
           }
         ]
+      },
+      {
+        "model": "RTX3080",
+        "date": "2025-07-10",
+        "price": 32950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/free-shipping-products/"
+          }
+        ]
       }
     ],
     "RTX5060": [
@@ -9274,6 +9653,17 @@
       {
         "model": "RTX5060",
         "date": "2025-07-09",
+        "price": 18199.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "model": "RTX5060",
+        "date": "2025-07-10",
         "price": 18199.0,
         "stores": [
           {
@@ -9558,6 +9948,17 @@
             "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-6500-xt-gaming-oc-4gb-gddr6-graphics-card"
           }
         ]
+      },
+      {
+        "model": "RX6500XT",
+        "date": "2025-07-10",
+        "price": 8450.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-6500-xt-gaming-oc-4gb-gddr6-graphics-card"
+          }
+        ]
       }
     ],
     "GT1030-2GB": [
@@ -9828,6 +10229,17 @@
       {
         "model": "GT1030-2GB",
         "date": "2025-07-09",
+        "price": 3295.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-gt1030-2g-v3-v-graphics-card-2gb-gddr5-64-bit-memory-bus/"
+          }
+        ]
+      },
+      {
+        "model": "GT1030-2GB",
+        "date": "2025-07-10",
         "price": 3295.0,
         "stores": [
           {
@@ -10112,6 +10524,17 @@
             "link": ""
           }
         ]
+      },
+      {
+        "model": "GT730-2GB",
+        "date": "2025-07-10",
+        "price": 1599.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
       }
     ],
     "RX9060XT-16GB": [
@@ -10382,6 +10805,17 @@
       {
         "model": "RX9060XT-16GB",
         "date": "2025-07-09",
+        "price": 23450.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "model": "RX9060XT-16GB",
+        "date": "2025-07-10",
         "price": 23450.0,
         "stores": [
           {
@@ -10666,6 +11100,17 @@
             "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5090-32gb-gddr7-ventus-3x-oc-graphics-card"
           }
         ]
+      },
+      {
+        "model": "RTX5090",
+        "date": "2025-07-10",
+        "price": 139450.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5090-32gb-gddr7-ventus-3x-oc-graphics-card"
+          }
+        ]
       }
     ],
     "GT730": [
@@ -10826,6 +11271,17 @@
       {
         "model": "GT730",
         "date": "2025-07-09",
+        "price": 4895.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "GT730",
+        "date": "2025-07-10",
         "price": 4895.0,
         "stores": [
           {
@@ -11110,6 +11566,17 @@
             "link": "https://easypc.com.ph/products/colorful-geforce-gtx-1630-mini-4gd6-v-4gb-gddr6-64-bit-videocard"
           }
         ]
+      },
+      {
+        "model": "GTX1630",
+        "date": "2025-07-10",
+        "price": 5000.0,
+        "stores": [
+          {
+            "store": "easypc",
+            "link": "https://easypc.com.ph/products/colorful-geforce-gtx-1630-mini-4gd6-v-4gb-gddr6-64-bit-videocard"
+          }
+        ]
       }
     ],
     "RTX3090": [
@@ -11270,6 +11737,17 @@
       {
         "model": "RTX3090",
         "date": "2025-07-09",
+        "price": 66950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX3090",
+        "date": "2025-07-10",
         "price": 66950.0,
         "stores": [
           {
@@ -11614,6 +12092,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4070",
+        "date": "2025-07-10",
+        "price": 30950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX5060TI-16GB": [
@@ -11891,6 +12380,17 @@
             "link": ""
           }
         ]
+      },
+      {
+        "model": "RTX5060TI-16GB",
+        "date": "2025-07-10",
+        "price": 27799.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
       }
     ],
     "GT730-4GB": [
@@ -12150,6 +12650,17 @@
       {
         "model": "GT730-4GB",
         "date": "2025-07-09",
+        "price": 2950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "GT730-4GB",
+        "date": "2025-07-10",
         "price": 2950.0,
         "stores": [
           {
@@ -12434,6 +12945,17 @@
             "link": ""
           }
         ]
+      },
+      {
+        "model": "RX9060XT-8GB",
+        "date": "2025-07-10",
+        "price": 20299.0,
+        "stores": [
+          {
+            "store": "pchub",
+            "link": ""
+          }
+        ]
       }
     ],
     "RTXA4500": [
@@ -12601,6 +13123,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTXA4500",
+        "date": "2025-07-10",
+        "price": 128000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX6000": [
@@ -12761,6 +13294,17 @@
       {
         "model": "RTX6000",
         "date": "2025-07-09",
+        "price": 500000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX6000",
+        "date": "2025-07-10",
         "price": 500000.0,
         "stores": [
           {
@@ -13027,6 +13571,17 @@
       {
         "model": "RX6900XT",
         "date": "2025-07-09",
+        "price": 29950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RX6900XT",
+        "date": "2025-07-10",
         "price": 29950.0,
         "stores": [
           {
@@ -13304,6 +13859,17 @@
       {
         "model": "RX6950XT",
         "date": "2025-07-09",
+        "price": 38995.0,
+        "stores": [
+          {
+            "store": "dynaquest",
+            "link": "https://dynaquestpc.com/products/msi-radeon-rx-6950-xt-gaming-x-trio-16gb-gddr6-graphics-card"
+          }
+        ]
+      },
+      {
+        "model": "RX6950XT",
+        "date": "2025-07-10",
         "price": 38995.0,
         "stores": [
           {
@@ -13606,6 +14172,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX550-4GB",
+        "date": "2025-07-10",
+        "price": 4295.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RX6750XT": [
@@ -13873,6 +14450,17 @@
       {
         "model": "RX6750XT",
         "date": "2025-07-09",
+        "price": 23295.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/xfx-radeon-rx-6750-xt-speedster-qick-319-core-gaming-graphics-card-rx-675xyjfdp/"
+          }
+        ]
+      },
+      {
+        "model": "RX6750XT",
+        "date": "2025-07-10",
         "price": 23295.0,
         "stores": [
           {
@@ -14197,6 +14785,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4070TISUPER",
+        "date": "2025-07-10",
+        "price": 47950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "T1000": [
@@ -14364,6 +14963,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "T1000",
+        "date": "2025-07-10",
+        "price": 23950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "T400": [
@@ -14524,6 +15134,17 @@
       {
         "model": "T400",
         "date": "2025-07-09",
+        "price": 8595.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "T400",
+        "date": "2025-07-10",
         "price": 8595.0,
         "stores": [
           {
@@ -14808,6 +15429,17 @@
             "link": "https://netcodex.ph/product/colorful-gt1030-4g-v-graphics-card-4gb-gddr5-64-bit-memory-bus/"
           }
         ]
+      },
+      {
+        "model": "GT1030-4GB",
+        "date": "2025-07-10",
+        "price": 4295.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/colorful-gt1030-4g-v-graphics-card-4gb-gddr5-64-bit-memory-bus/"
+          }
+        ]
       }
     ],
     "RX6650XT": [
@@ -14975,6 +15607,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX6650XT",
+        "date": "2025-07-10",
+        "price": 14250.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RX6700XT": [
@@ -15135,6 +15778,17 @@
       {
         "model": "RX6700XT",
         "date": "2025-07-09",
+        "price": 22950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RX6700XT",
+        "date": "2025-07-10",
         "price": 22950.0,
         "stores": [
           {
@@ -15419,6 +16073,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX6600XT",
+        "date": "2025-07-10",
+        "price": 14950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "GTX1660": [
@@ -15586,6 +16251,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "GTX1660",
+        "date": "2025-07-10",
+        "price": 10595.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "GTX1050TI": [
@@ -15746,6 +16422,17 @@
       {
         "model": "GTX1050TI",
         "date": "2025-07-09",
+        "price": 7595.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "GTX1050TI",
+        "date": "2025-07-10",
         "price": 7595.0,
         "stores": [
           {
@@ -16008,6 +16695,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX6400",
+        "date": "2025-07-10",
+        "price": 7995.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "RTX3060": [
@@ -16168,6 +16866,17 @@
       {
         "model": "RTX3060",
         "date": "2025-07-09",
+        "price": 20950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX3060",
+        "date": "2025-07-10",
         "price": 20950.0,
         "stores": [
           {
@@ -16452,6 +17161,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4080",
+        "date": "2025-07-10",
+        "price": 63950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX4090": [
@@ -16612,6 +17332,17 @@
       {
         "model": "RTX4090",
         "date": "2025-07-09",
+        "price": 99895.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX4090",
+        "date": "2025-07-10",
         "price": 99895.0,
         "stores": [
           {
@@ -16786,6 +17517,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4080S",
+        "date": "2025-07-10",
+        "price": 58950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "ARCA750": [
@@ -16953,6 +17695,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
           }
         ]
+      },
+      {
+        "model": "ARCA750",
+        "date": "2025-07-10",
+        "price": 10995.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
+          }
+        ]
       }
     ],
     "RTX3090TI": [
@@ -17113,6 +17866,17 @@
       {
         "model": "RTX3090TI",
         "date": "2025-07-09",
+        "price": 57950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX3090TI",
+        "date": "2025-07-10",
         "price": 57950.0,
         "stores": [
           {
@@ -17421,6 +18185,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4060TI1-6GB",
+        "date": "2025-07-10",
+        "price": 26950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "GTX1660TI": [
@@ -17698,6 +18473,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "GTX1660TI",
+        "date": "2025-07-10",
+        "price": 11995.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RX7900GRE": [
@@ -17865,6 +18651,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RX7900GRE",
+        "date": "2025-07-10",
+        "price": 35950.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/amd-video-cards/"
+          }
+        ]
       }
     ],
     "ARCA380": [
@@ -18025,6 +18822,17 @@
       {
         "model": "ARCA380",
         "date": "2025-07-09",
+        "price": 7595.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "ARCA380",
+        "date": "2025-07-10",
         "price": 7595.0,
         "stores": [
           {
@@ -18309,6 +19117,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
           }
         ]
+      },
+      {
+        "model": "ARCB580",
+        "date": "2025-07-10",
+        "price": 16550.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
+          }
+        ]
       }
     ],
     "ARCA770": [
@@ -18536,6 +19355,21 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
           }
         ]
+      },
+      {
+        "model": "ARCA770",
+        "date": "2025-07-10",
+        "price": 21000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
+          },
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/intel-video-cards/"
+          }
+        ]
       }
     ],
     "RTXA6000": [
@@ -18696,6 +19530,17 @@
       {
         "model": "RTXA6000",
         "date": "2025-07-09",
+        "price": 300000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTXA6000",
+        "date": "2025-07-10",
         "price": 300000.0,
         "stores": [
           {
@@ -18870,6 +19715,17 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX4060TI",
+        "date": "2025-07-10",
+        "price": 27895.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ],
     "RTX2000": [
@@ -19030,6 +19886,17 @@
       {
         "model": "RTX2000",
         "date": "2025-07-09",
+        "price": 55000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
+      },
+      {
+        "model": "RTX2000",
+        "date": "2025-07-10",
         "price": 55000.0,
         "stores": [
           {
@@ -19314,6 +20181,17 @@
             "link": "https://ecommerce.datablitz.com.ph/products/ayaneo-starship-graphics-dock-amd-radeon-rx-7600m-xt-nebula-red"
           }
         ]
+      },
+      {
+        "model": "AYANEO-7600M",
+        "date": "2025-07-10",
+        "price": 29995.0,
+        "stores": [
+          {
+            "store": "datablitz",
+            "link": "https://ecommerce.datablitz.com.ph/products/ayaneo-starship-graphics-dock-amd-radeon-rx-7600m-xt-nebula-red"
+          }
+        ]
       }
     ],
     "RX580-8GB": [
@@ -19584,6 +20462,17 @@
       {
         "model": "RX580-8GB",
         "date": "2025-07-09",
+        "price": 5195.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/ramsta-rx580-jx-dual-fan-8-gb-gddr5-256-bit-graphics-card/"
+          }
+        ]
+      },
+      {
+        "model": "RX580-8GB",
+        "date": "2025-07-10",
         "price": 5195.0,
         "stores": [
           {
@@ -20123,6 +21012,21 @@
             "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/"
           }
         ]
+      },
+      {
+        "model": "GTX1050",
+        "date": "2025-07-10",
+        "price": 7349.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card-2/"
+          },
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/zotac-geforce-gtx-1050-directx-12-zt-p10500a-10l-2gb-128-bit-gddr5-pci-express-3-0-hdcp-ready-mini-video-card/"
+          }
+        ]
       }
     ],
     "RX550": [
@@ -20268,6 +21172,17 @@
             "link": "https://netcodex.ph/product/powercolor-amd-radeon-rx-550-low-profile-graphics-card-with-2gb-gddr5-memory/"
           }
         ]
+      },
+      {
+        "model": "RX550",
+        "date": "2025-07-10",
+        "price": 2995.0,
+        "stores": [
+          {
+            "store": "netcodex",
+            "link": "https://netcodex.ph/product/powercolor-amd-radeon-rx-550-low-profile-graphics-card-with-2gb-gddr5-memory/"
+          }
+        ]
       }
     ],
     "T2000": [
@@ -20353,10 +21268,21 @@
             "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
           }
         ]
+      },
+      {
+        "model": "RTX5050",
+        "date": "2025-07-10",
+        "price": 16000.0,
+        "stores": [
+          {
+            "store": "bermorzone",
+            "link": "https://bermorzone.com.ph/product-category/video-cards/nvidia-video-cards/"
+          }
+        ]
       }
     ]
   },
   "meta": {
-    "last_date": "2025-07-09"
+    "last_date": "2025-07-10"
   }
 }
