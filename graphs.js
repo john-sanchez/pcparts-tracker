@@ -20,7 +20,6 @@ fetch('trends.json')
         type: 'line',
         data: { datasets: [{ label: model, data: dataset, borderColor: 'rgb(75,192,192)', fill: false, tension: 0 }] },
         options: {
-          parsing: false,
           plugins: {
             tooltip: {
               callbacks: {
