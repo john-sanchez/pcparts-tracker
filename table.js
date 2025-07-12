@@ -15,8 +15,29 @@ fetch('data.json')
         { data: 'link', render: d => `<a href="${d}" target="_blank">link</a>` }
       ]
     });
+    const uniques = {category: new Set(), shop: new Set(), availability: new Set(), model: new Set()};
+    data.forEach(row => {
+      uniques.category.add(row.category);
+      uniques.shop.add(row.shop);
+      uniques.availability.add(row.availability);
+      uniques.model.add(row.model);
+    });
+
+    Object.entries(uniques).forEach(([key, vals]) => {
+      const dl = $('<datalist>').attr('id', key + 'List');
+      Array.from(vals).sort().forEach(v => dl.append($('<option>').val(v)));
+      $('body').append(dl);
+    });
+
     $('#gpuTable thead th').each(function(i){
-      $(this).append('<br><input type="text" placeholder="Search" />');
+      const header = headers[i];
+      let input;
+      if(['category','shop','availability','model'].includes(header)) {
+        input = `<input type="text" list="${header}List" placeholder="Search" />`;
+      } else {
+        input = '<input type="text" placeholder="Search" />';
+      }
+      $(this).append('<br>' + input);
       $('input', this)
         .on('click', function(e){
           // Prevent sorting when clicking inside the search box

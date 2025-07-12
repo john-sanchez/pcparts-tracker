@@ -10,6 +10,7 @@ fetch('trends.json')
       opt.textContent = m;
       select.appendChild(opt);
     });
+    $(select).select2({ width: '200px' });
     const ctx = document.getElementById('trendChart').getContext('2d');
     let chart;
 
@@ -20,6 +21,7 @@ fetch('trends.json')
         type: 'line',
         data: { datasets: [{ label: model, data: dataset, borderColor: 'rgb(75,192,192)', fill: false, tension: 0 }] },
         options: {
+          maintainAspectRatio: false,
           plugins: {
             tooltip: {
               callbacks: {
@@ -37,6 +39,9 @@ fetch('trends.json')
       chart = new Chart(ctx, cfg);
     }
 
-    select.addEventListener('change', () => render(select.value));
-    if (models.length) render(models[0]);
+    $(select).on('change', () => render(select.value));
+    if (models.length) {
+      select.value = models[0];
+      render(models[0]);
+    }
   });
